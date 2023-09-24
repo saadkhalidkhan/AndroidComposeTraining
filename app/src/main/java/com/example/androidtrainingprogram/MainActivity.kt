@@ -348,7 +348,7 @@ fun MyCVScreen() {
                                     contentDescription = "avatar",
                                     contentScale = ContentScale.Crop,
                                     modifier = Modifier
-                                        .size(35.dp)
+                                        .size(40.dp)
                                         .clip(CircleShape)
                                         .border(
                                             1.dp,
@@ -379,7 +379,7 @@ fun MyCVScreen() {
                                     contentDescription = "avatar",
                                     contentScale = ContentScale.Crop,
                                     modifier = Modifier
-                                        .size(35.dp)
+                                        .size(40.dp)
                                         .clip(CircleShape)
                                         .border(
                                             1.dp,
@@ -410,7 +410,7 @@ fun MyCVScreen() {
                                     contentDescription = "avatar",
                                     contentScale = ContentScale.Crop,
                                     modifier = Modifier
-                                        .size(35.dp)
+                                        .size(40.dp)
                                         .clip(CircleShape)
                                         .border(
                                             1.dp,
@@ -441,7 +441,7 @@ fun MyCVScreen() {
                                     contentDescription = "avatar",
                                     contentScale = ContentScale.Crop,
                                     modifier = Modifier
-                                        .size(35.dp)
+                                        .size(40.dp)
                                         .clip(CircleShape)
                                         .border(
                                             1.dp,
