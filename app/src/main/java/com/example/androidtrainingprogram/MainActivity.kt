@@ -83,6 +83,7 @@ fun MyCVScreen() {
                         Icon(Icons.Rounded.KeyboardArrowLeft, "")
                     }
                 },
+                backgroundColor = Color(0xFF9470CE),
                 actions = {
                     IconButton(onClick = {
                     }) {
