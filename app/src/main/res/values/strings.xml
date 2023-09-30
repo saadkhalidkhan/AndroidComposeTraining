@@ -1,28 +1,20 @@
 <resources>
     <string name="app_name">AndroidTrainingProgram</string>
-
+    <string name="profile">Profile</string>
+    <string name="menu_icon">Menu Icon</string>
     <string name="user_name">Saad Khan</string>
-    <string name="user_designation">Android Consultant</string>
-    <string name="user_professional_summary_title">Professional Summary</string>
-    <string name="user_professional_summary">A solutions-driven individual with over 6 years of experience in developing applications, solving complex problems, working with cross-functional teams, and building project plans. Proficient in covering traditional and Agile project management approach throughout the lifecycle of a project and learning new technologies.</string>
-    <string name="user_experience_title">Experiences</string>
-    <string name="user_experience_company">Systems Limited</string>
-    <string name="user_experience_company_duration">October 2022 - Present</string>
-    <string name="user_skill">Skills</string>
-    <string name="user_skill_retrofit">Retrofit</string>
-    <string name="user_skill_mvvm">MVVM</string>
-    <string name="user_skill_compose">Jetpack Compose</string>
-    <string name="user_skill_android">Android</string>
-    <string name="user_skill_kotlin">Kotlin</string>
-    <string name="user_skill_java">Java</string>
-    <string name="user_skill_project_management">Project Management</string>
-    <string name="user_languages">Languages</string>
-    <string name="user_language_english">English</string>
-    <string name="user_language_urdu">Urdu</string>
-    <string name="user_language_punjabi">Punjabi</string>
-    <string name="user_hobbies">Hobbies</string>
-    <string name="user_hobbies_travelling">Travelling</string>
-    <string name="user_hobbies_cooking">Cooking</string>
-    <string name="user_hobbies_video_games">Video Games</string>
+    <string name="user_location">Johar Town</string>
+    <string name="follow">FOLLOW</string>
+    <string name="_224">224</string>
+    <string name="following">Following</string>
+    <string name="_48_6_k">48.6 K</string>
+    <string name="followers">Followers</string>
+    <string name="_3_2_m">3.2 M</string>
+    <string name="like">Like</string>
+    <string name="friends">Friends</string>
+    <string name="see_all">SEE ALL</string>
+    <string name="avatar">avatar</string>
+    <string name="saad">Saad</string>
+    <string name="photos">Photos</string>
 
 </resources>
