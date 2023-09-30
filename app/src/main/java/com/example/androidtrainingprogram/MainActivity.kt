@@ -480,12 +480,14 @@ fun MyProfileScreen() {
                     )
 
                     LazyVerticalStaggeredGrid(
-                        modifier = Modifier.constrainAs(gridList) {
-                            top.linkTo(photosText.bottom)
-                            start.linkTo(parent.start)
-                            end.linkTo(parent.end)
-                            width = Dimension.fillToConstraints
-                        },
+                        modifier = Modifier
+                            .constrainAs(gridList) {
+                                top.linkTo(photosText.bottom)
+                                start.linkTo(parent.start)
+                                end.linkTo(parent.end)
+                                width = Dimension.fillToConstraints
+                            }
+                            .padding(top = 10.dp),
                         columns = StaggeredGridCells.Fixed(2),
                         verticalItemSpacing = 4.dp,
                         horizontalArrangement = Arrangement.spacedBy(4.dp),
